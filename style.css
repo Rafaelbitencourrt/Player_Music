@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(/imagens/mohammad-metri-1oKxSKSOowE-unsplash.jpg);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  font-family: "lato", sans-serif;
+  overflow: hidden;
+  display: flex;
+}
